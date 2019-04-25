@@ -14,4 +14,4 @@ An app that was made to replicate the tamagotchi toy that was big in the 90's
 * In your terminal type `npm start`
 
 ## Author
-Calvin J. Foster
+Calvin Foster
